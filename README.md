@@ -7,7 +7,7 @@ Web developer and programmer.
 I've been progamming to code for 2 years. I started with HTML, CSS and JAVASCRIPT, but always have really found a passion for backend development. Therefore, I know how to program in PHP. In conclusion, my languages are HTML, CSS, JAVASCRIPT, PHP and JAVA. Also, use a interesting framework, Laravel, Bootstrap 5 and Tailwind. However I use Database processor like MySql.
 
 * 🌍  I'm based in Los Llanos de Aridane, La Palma, Canary Islands.
-* 🖥️  See my portfolio at [My portfolio.](http://diegor.departamentoinformaticajmpp.com/portfolio)
+* 🖥️  See my portfolio at [My portfolio.](http://diegor.departamentoinformaticajmpp.com/portfolio/)
 * ✉️  You can contact me at [drplaybasketball17@gmail.com](mailto:drplaybasketball17@gmail.com)
 * 🚀  I'm currently working on [I.E.S José María Pérez Pulido](http://departamentoinformaticajmpp.com)
 * 🧠  I'm learning A new Framework: LARAVEL.
