@@ -8,11 +8,11 @@ I've been progamming to code for 2 years. I started with HTML, CSS and JAVASCRIP
 
 * 🌍  I'm based in Los Llanos de Aridane, La Palma, Canary Islands.
 * 🖥️  See my portfolio at [My portfolio.](http://diegor.departamentoinformaticajmpp.com)
-* ✉️  You can contact me at [drplaybasketball17@gmail.com](mailto:drplaybasketball17@gmail.com)
-* 🚀  I'm currently working on [I.E.S José María Pérez Pulido](http://departamentoinformaticajmpp.com)
-* 🧠  I'm learning A new Framework: LARAVEL.
+* ✉️  You can contact me at [websolutionsdiego@gmail.com](mailto:websolutionsdiego@gmail.com)
+* 🚀  I'm currently working on [BABEL Sistemas de Información](https://www.babelgroup.com/)
+* 🧠  I'm learning a new web development platform: OutSystems.
 * 🤝  I'm open to collaborating on Interesting proyects or new ventures.
-* ⚡  I know how to speak in english and a bit of french.
+* ⚡  I know how to speak in english.
 
 <a href="https://www.twitter.com/DiegoRodrguez7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DiegoRodrguez7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
