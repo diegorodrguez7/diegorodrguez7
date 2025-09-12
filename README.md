@@ -7,19 +7,11 @@ Web developer and programmer.
 I've been progamming to code for 2 years. I started with HTML, CSS and JAVASCRIPT, but always have really found a passion for backend development. Therefore, I know how to program in PHP. In conclusion, my languages are HTML, CSS, JAVASCRIPT, PHP and JAVA. Also, use a interesting framework, Laravel, Bootstrap 5 and Tailwind. However I use Database processor like MySql.
 
 * 🌍  I'm based in Los Llanos de Aridane, La Palma, Canary Islands.
-* 🖥️  See my portfolio at [My portfolio.](http://diegor.departamentoinformaticajmpp.com)
 * ✉️  You can contact me at [websolutionsdiego@gmail.com](mailto:websolutionsdiego@gmail.com)
-* 🚀  I'm currently working on [BABEL Sistemas de Información](https://www.babelgroup.com/)
-* 🧠  I'm learning a new web development platform: OutSystems.
+* 🚀  I'm currently working on [Robootics Education S.L](https://robooticseducation.com/)
 * 🤝  I'm open to collaborating on Interesting proyects or new ventures.
-* ⚡  I know how to speak in english.
-
-<a href="https://www.twitter.com/DiegoRodrguez7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DiegoRodrguez7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
